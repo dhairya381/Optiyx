@@ -1,0 +1,2 @@
+# Optiyx
+Generative Engine optimisation
